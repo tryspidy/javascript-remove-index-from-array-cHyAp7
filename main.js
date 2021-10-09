@@ -1,0 +1,1 @@
+array.splice(index, 1); // Removes one element at index
